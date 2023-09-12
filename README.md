@@ -92,11 +92,15 @@ line 55 states that css should be applied to input tag which is child of div wit
 
 box shadow is used to apply a shadow to element : here x direction , y direction and shadow is specified 
 
+the rest of property have already been defined 
+
 ![image](https://github.com/EaswaranPottiK/Assignment7ActiveGamesTemplate/assets/38095510/8c5ac10d-bee1-483b-ba6b-835034c6c06b)
 
 line no 80 specify that css should be applied to div with class progress which is child of div with class card 
 
 here border is defined as none to remove border of the box
+
+the rest of property have already been defined 
 
 
 
